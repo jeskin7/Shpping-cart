@@ -36,3 +36,7 @@ To get a local copy up and running follow these below example steps.
     ```sh
    npm start
     ```
+### Deployment
+
+The application is deployed at https://shopping-cart-rust.vercel.app/
+
